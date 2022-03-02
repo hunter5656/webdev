@@ -41,9 +41,3 @@ p{
     border-radius:26px;
 }
 
-
-.flex-container{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
